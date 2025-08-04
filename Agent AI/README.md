@@ -1,1 +1,1 @@
-The pdf contains the steps to create ai chatbot using ibm cloud
+The pdf is the main project
