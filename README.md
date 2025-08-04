@@ -1,4 +1,4 @@
 # intern
 intern
 
-Ai chatbot creation step in Agent AI folder
+Ai chatbot project in Agent AI folder
